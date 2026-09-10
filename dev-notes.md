@@ -5,3 +5,4 @@
 - 2026-08-26T11:21:00: noted todo for later
 - 2026-08-30T21:01:00: checked edge cases
 - 2026-08-31T11:19:00: adjusted thresholds
+- 2026-09-10T08:01:00: refactored helper
